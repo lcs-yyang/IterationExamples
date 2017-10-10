@@ -31,20 +31,10 @@ let canvas = Canvas(width: 300, height: 400)
 canvas.defaultLineWidth = 5
 
 // Draw the "rungs" of a ladder
-for y in stride(from: 0, through: 400, by: 50) {
-    
-    y
-    
-    // Draw each rung
-    canvas.drawLine(fromX: 100, fromY: y, toX: 200, toY: y)
-    
-    canvas
-    
+for i in stride(from: 0, through: 360, by: 1) {
+    canvas.fillColor = Color(hue: i, saturation: 80, brightness: 90, alpha: 100)
+    canvas.drawRectangle(bottomLeftX: i, bottomLeftY: 0, width: 1, height: 100)
 }
-/*:
- ### Counting backwards
- You can use a *for-in* loop with the *stride* function to count backwards as well.
- */
 // Countdown, then blast off
 for value in stride(from: 10, through: 0, by: -1) {
     print(value)

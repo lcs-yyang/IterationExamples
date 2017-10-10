@@ -2,5 +2,30 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/yyang/Desktop/Computer%20Science/IterationExamples/IterationExamples/Iteration%20Examples.playground/Pages/Iteration.xcplaygroundpage#CharacterRangeLen=243&amp;CharacterRangeLoc=1128&amp;EndingColumnNumber=0&amp;EndingLineNumber=37&amp;StartingColumnNumber=0&amp;StartingLineNumber=32&amp;Timestamp=529352622.611401"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/yyang/Desktop/Computer%20Science/IterationExamples/IterationExamples/Iteration%20Examples.playground/Pages/Iteration.xcplaygroundpage#CharacterRangeLen=6&amp;CharacterRangeLoc=1100&amp;EndingColumnNumber=7&amp;EndingLineNumber=30&amp;StartingColumnNumber=1&amp;StartingLineNumber=30&amp;Timestamp=529352622.614588"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/yyang/Desktop/Computer%20Science/IterationExamples/IterationExamples/Iteration%20Examples.playground/Pages/Iteration.xcplaygroundpage#CharacterRangeLen=6&amp;CharacterRangeLoc=1044&amp;EndingColumnNumber=11&amp;EndingLineNumber=27&amp;StartingColumnNumber=5&amp;StartingLineNumber=27&amp;Timestamp=529352622.614875"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/yyang/Desktop/Computer%20Science/IterationExamples/IterationExamples/Iteration%20Examples.playground/Pages/Iteration.xcplaygroundpage#CharacterRangeLen=243&amp;CharacterRangeLoc=1128&amp;EndingColumnNumber=0&amp;EndingLineNumber=37&amp;StartingColumnNumber=0&amp;StartingLineNumber=32&amp;Timestamp=529352622.618572"
+         selectedRepresentationIndex = "1"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/yyang/Desktop/Computer%20Science/IterationExamples/IterationExamples/Iteration%20Examples.playground/Pages/Iteration.xcplaygroundpage#CharacterRangeLen=243&amp;CharacterRangeLoc=1128&amp;EndingColumnNumber=0&amp;EndingLineNumber=37&amp;StartingColumnNumber=0&amp;StartingLineNumber=32&amp;Timestamp=529352622.619159"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
